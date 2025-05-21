@@ -1,4 +1,5 @@
-### ¼öÇÐ °è»êÀ» À§ÇÑ ÄÚµå¸¦ Á¦°øÇÏ´Â ÇÁ·ÎÁ§Æ®
+### ìˆ˜í•™ ê³„ì‚°ì„ ìœ„í•œ ì½”ë“œë¥¼ ì œê³µí•˜ëŠ” í”„ë¡œì íŠ¸
 
-**1. calculator.py** : '°è»ê±â'¿¡ ±â´É Á¦°ø
-add, substract µî
+**1. calculator.py** : 'ê³„ì‚°ê¸°'ì— ê¸°ëŠ¥ ì œê³µ
+add, substract ë“±
+**2. ëª°ëž‘y**
